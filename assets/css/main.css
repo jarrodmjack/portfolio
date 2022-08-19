@@ -83,6 +83,31 @@ input, select, textarea {
 	#portrait{
 		height: 250px;
 	}
+
+	#myName{
+		text-align: center;
+	}
+
+	#myParagraph{
+		text-align: center;
+	}
+
+	section p{
+		text-align: center;
+	}
+
+	section h2{
+		text-align: center;
+	}
+
+	section h3{
+		text-align: center;
+	}
+
+	li{
+		text-align: center;
+	}
+
 }
 
 
