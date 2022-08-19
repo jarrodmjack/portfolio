@@ -79,6 +79,12 @@ input, select, textarea {
 	border-radius: 50%;
 }
 
+@media screen and (max-width: 400px){
+	#portrait{
+		height: 250px;
+	}
+}
+
 
 #message {
 	
